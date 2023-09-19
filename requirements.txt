@@ -13,7 +13,7 @@ fastai==2.7.12
 fastcore==1.5.29
 fastdownload==0.0.7
 fastprogress==1.0.3
-Flask==2.3.3
+Flask==2.2.5
 fonttools==4.42.1
 gunicorn==21.2.0
 idna==3.4
