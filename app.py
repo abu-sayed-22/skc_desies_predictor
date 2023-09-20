@@ -22,7 +22,7 @@ app = Flask(__name__)
 @app.get('/')
 def home():
     return {
-        "wlc": "documentation is gonna update soon"
+        "wlc": "something is gonna update soon"
     }
 
 
